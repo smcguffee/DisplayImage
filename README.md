@@ -1,3 +1,3 @@
 # DisplayImage
-OpenCV Test to Display an Image
+OpenCV Test to Create a Grey Image from a Color Image
 
